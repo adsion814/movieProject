@@ -1,0 +1,37 @@
+@charset "UTF-8";
+#guidehead{
+	position:absolute;
+right:100px; 
+top:-1px;
+
+}
+.input-group{
+	width:300px;
+	margin-bottom: 50px;
+	margin: auto;
+}
+#danmup{
+	margin: auto;
+}
+#top_textarea{
+	    width: 100%;
+
+    border: 0;
+    outline: none;
+    resize: none;
+    display: inline-block;
+    font-size: 12px;
+}
+#guidehead{
+	position: absolute;
+	z-index: 101;
+	right:200px;
+	height:20px;
+	background-color: rgba(255,255,255,0.5)
+    
+}
+#guidehead a{
+	font-weight: bold;
+    
+}
+=

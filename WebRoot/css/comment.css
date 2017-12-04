@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: green;
+}
+
+a:active {
+	color: red;
+}
+
+#mainBody {
+	width: 80%;
+	margin: auto;
+}
+
+#top-reply {
+	width: 100%;
+}
+
+#top-reply-s {
+	float: right;
+}
+
+#commentArea {
+	border: 1px solid green;
+}
+
+textarea {
+	height: 100px;
+	width: 100%;
+	padding: 10px;
+}
+
+#submitbtn {
+	text-align: center;
+	height: 20px;
+}
+
+#btn {
+	height: 40px;
+	width: 80px;
+}
+
+ul {
+	list-style: none;
+}
+
+#more-1 {
+	background: gray;
+	text-align: center;
+	height: 30px;
+	line-height: 30px;
+}
+#more-btn{
+	height: 30px;
+	line-height: 30px;
+}
+
+.comment-d {
+	border: 1px solid green;
+	margin-bottom: 20px;
+}
+
+.comment-d span {
+	margin: 0px 20px;
+}
+
+#comment-content {
+	height: 40px;
+}

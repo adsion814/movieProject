@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#indexlist ul{
+	
+	position:absolute;
+	z-index: 100;
+	background-color:rgba(255,255,255,0.7); 
+	list-style: none;
+	right:200px;
+	top:150px;
+}
+#guidehead{
+	position: absolute;
+	z-index: 101;
+	right:200px;
+	background-color: rgba(255,255,255,0.5)
+    
+}
+#guidehead a{
+	font-weight: bold;
+    
+}
+#science img{
+	height:200px;
+	width:200px;
+	margin: 20px;
+}
+.videoinfo img{
+	width:100px;
+	height:100px;
+}

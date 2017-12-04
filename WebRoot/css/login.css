@@ -1,0 +1,25 @@
+div{
+	color: black;
+	position: absolute;left: 500px;top: 300px;
+	display: inline-block;
+	text-align: center;
+	line-height: 50px;
+	height: 300px;
+	width: 300px;
+	border: solid;
+	background: url(../img/img2.jpg) no-repeat;
+}
+#B1{
+	color: whitesmoke;
+	position: relative;top: 30px;
+	width: 150px;
+	height: 40px;
+	background-color: crimson;
+	border-bottom-left-radius: 45px;
+	border-bottom-right-radius: 45px;
+	border-top-left-radius: 45px;
+	border-top-right-radius: 45px;
+	border: solid;
+	border-color: dodgerblue;
+	cursor: pointer;
+}
